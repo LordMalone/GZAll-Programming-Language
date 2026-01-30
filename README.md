@@ -1,0 +1,2 @@
+# GZAll-Programming-Language
+GEN Z and Alpha Programming Language (GZAll) - A PROGRAMMING LANGUAGE FOR WHAT IT SAYS.. LANGUAGE MADE OF THEIR SLANG.. WITH USER INTERFACE
