@@ -1,8 +1,18 @@
-from enum import Enum
+# Added pre-built modules to the gzall_interpreter.py
 
-class TokenType(Enum):
-    # Existing token types...
-    DRIP = 'DRIP'  # Token for class definition
-    SWAG = 'SWAG'  # Token for referencing class instance
-    THIS = 'THIS'  # Token for referencing current instance
-    # ...
+# Pre-built modules
+
+class QuickDoomScroll:
+    pass
+
+class Gpt:
+    pass
+
+class TikTokVibe:
+    pass
+
+class NoCapStats:
+    pass
+
+class SheeshWeb:
+    pass
